@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.lu.rocketmq.config.MQBaseAutoConfiguration,\
+  cn.lu.rocketmq.config.TransactionMQProducerAutoConfiguration,\
+  cn.lu.rocketmq.config.MQConsumerAutoConfiguration,\
+  cn.lu.rocketmq.config.MQProducerAutoConfiguration
